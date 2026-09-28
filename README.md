@@ -34,7 +34,7 @@ cmake --build build
 预期输出，退出状态为 0：
 
 ```text
-Hello, Alice!
+Welcome, Alice!
 ```
 
 名字中含空格时用引号将其作为一个参数：
@@ -46,7 +46,7 @@ Hello, Alice!
 预期输出，退出状态为 0：
 
 ```text
-Hello, RM Vision!
+Welcome, RM Vision!
 ```
 
 ## 错误输入

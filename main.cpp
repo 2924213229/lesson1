@@ -6,6 +6,6 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    std::cout << "Hello, " << argv[1] << "!" << std::endl;
+    std::cout << "Welcome, " << argv[1] << "!" << std::endl;
     return 0;
 }
